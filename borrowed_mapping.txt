@@ -1,0 +1,7 @@
+nl_NL -> nl_BE
+ro_RO -> ro_MD
+es_ES -> es_ZZ
+ro_MD -> ro
+nl_BE -> nl
+es_ZZ -> es
+ru_RU -> ru_EE
